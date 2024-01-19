@@ -16,3 +16,7 @@ After fine-tuning, the model was then evaluated to get its performance metrics i
 ### RE-USING THE MODEL
 
 Once we had the model, it was then invoked to be used in a binary text classification on a different custom dataset which is totally different from the first dataset that was used.
+
+### VIEWING THE CODE:
+
+To view the code, click on the file "MLM_WAYNE_HUGG.ipynb"
